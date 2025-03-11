@@ -1,16 +1,14 @@
-## Hi there 👋
+## Merhaba, Ben Elvan :)
 
-<!--
-**gulbakelvan/gulbakelvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Yazılım test mühendisliği ile ilgileniyorum
+Şu anda yeni teknolojiler ve test otomasyonu öğreniyorum
+Hedefim : Test mühendisi olarak çalışmak
 
-Here are some ideas to get you started:
+## Beni Takip Edin
+İnstagram:elvngulbk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknolojiler/Araçlar
+JavaScript
+Selenium
+GitHub
